@@ -95,7 +95,7 @@ This notebook was built with AMP-PD and eQTL data from eQTLGen and mined from op
 This will walk you through set up, generation of the network, and visualization of the network.
 
 
-_For more examples, please refer to leidenalg [documentation](https://readthedocs.org/projects/leidenalg/downloads/pdf/latest/)
+_For more examples, please refer to leidenalg [documentation](https://readthedocs.org/projects/leidenalg/downloads/pdf/latest/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
