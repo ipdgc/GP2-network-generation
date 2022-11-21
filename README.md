@@ -87,7 +87,7 @@ Gene regulatory networks are important in understanding disease. This workflow s
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This notebook was built with AMP-PD and eQTL data from eQTLGen and mined from opentargets, but by changing the file paths you can use any data of choice.
+This notebook was built with AMP-PD and eQTL data from eQTLGen and mined from Open Targets, but by changing the file paths you can use any data of choice.
 
 
 ### 1. Use the hackathon_networks.ipynb notebook 
@@ -103,7 +103,7 @@ _For more examples, please refer to leidenalg [documentation](https://readthedoc
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [OpenTargets](https://genetics.opentargets.org/)
+* [Open Targets](https://genetics.opentargets.org/)
 * [eQTLGen](https://www.eqtlgen.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
